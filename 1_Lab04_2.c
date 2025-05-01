@@ -1,4 +1,4 @@
-/*#include <stdio.h>
+#include <stdio.h>
 
 void add();
 
@@ -17,4 +17,4 @@ int main()
 void add(int a, int b)
 {
 	printf("%d\n", a + b);
-}*/
+}
